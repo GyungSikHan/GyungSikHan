@@ -29,6 +29,13 @@ C++ 기반의 안정적인 코드 작성, 문제 해결, 디버깅, 성능 개�
 - The Seven
 - DirectX11 Study
 
+## 🔗 Link
+
+- 이력서 : https://gyungsikhan.github.io/HanGyungSikPortfolio/
+- Notion 이력서 : https://app.notion.com/p/3746365cac3f8027a760e82026e5ef55?source=copy_link
+- 개발 블로그 : https://gksrudtlr2.tistory.com/
+- 개발 기록 영상 : https://youtube.com/playlist?list=PLJCS8PHKU4Fs0a8vg6jrvBoDdbupy-IcX&si=IXOdxl2OSaG5gFoW
+  
 ## 📫 Contact
 
-- Email: gksrudtlr2@icloud.com
+- Email : gksrudtlr2@icloud.com
